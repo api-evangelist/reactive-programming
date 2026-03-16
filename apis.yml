@@ -1,12 +1,20 @@
+aid: reactive-programming
 name: Reactive Programming
-description: Reactive Programming is a software development technology or practice
-  that supports the creation, maintenance, or improvement of software systems. It
-  helps developers and engineering teams work more efficiently and deliver higher-quality
-  software products.
-url: null
+description: Reactive Programming is a software development paradigm centered around
+  asynchronous data streams and the propagation of changes. It enables building event-driven,
+  scalable applications that respond to data changes in real-time.
+type: Index
+url: https://raw.githubusercontent.com/api-evangelist/reactive-programming/refs/heads/main/apis.yml
 tags:
 - Reactive Programming
-created: '2025'
-modified: '2025'
+- Asynchronous
+- Streams
+- Event Driven
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
