@@ -28,7 +28,7 @@ type: Index
 url: https://raw.githubusercontent.com/api-evangelist/reactive-programming/refs/heads/main/apis.yml
 tags:
   - Asynchronous
-  - Event Driven
+  - Event-Driven
   - Reactive Programming
   - Streams
 tags_raw:
